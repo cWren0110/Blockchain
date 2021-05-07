@@ -1,4 +1,4 @@
-# Voting System
+# Identity System
 
 Building a simple and secure identity system that can be used to replace typical registration systems (e.g. birth record, marriage record, firearm ownership, vehicle ownership, death record)
 
